@@ -26,11 +26,11 @@ Uses a Convolutional Neural Network to classify and segment key features in the 
 
 # Technology and Tools   
 
--> Python
--> Sentinel-2 Satellite Data
--> Convolutional Neural Networks (CNNs)
--> Remote sensing tools and APIs
--> Data Visualization (Matplotlib, Seaborn)
+-> Python   
+-> Sentinel-2 Satellite Data   
+-> Convolutional Neural Networks (CNNs)   
+-> Remote sensing tools and APIs   
+-> Data Visualization (Matplotlib, Seaborn)   
 
 # Packages and Libraries    
 
